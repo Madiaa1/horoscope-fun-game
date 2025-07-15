@@ -28,5 +28,6 @@ Created with love by Mahdia Rasooli ✨
 4. Run the code using:
    
 ```bash
-python horoscope_game.py
+python horoscope_project.py
+
 
