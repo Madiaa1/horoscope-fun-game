@@ -10,6 +10,17 @@ Welcome to the Horoscope Game! This is a fun interactive Python game that reveal
 ## 💻 Requirements
 - Python 3
 
+⭐ **Features**
+Interactive prompts and friendly messages.
+Horoscope for each birth month.
+Lucky number surprise.
+
+🤝 **Contributing**
+Feel free to suggest improvements or new features! Pull requests are welcome.
+
+👩‍💻 **Author**
+Created with love by Mahdia Rasooli ✨
+
 ## 🚀 How to run
 1. Clone the repository or download the code.
 2. Open your terminal or command prompt.
@@ -18,7 +29,4 @@ Welcome to the Horoscope Game! This is a fun interactive Python game that reveal
    
 ```bash
 python horoscope_game.py
-
-## Author
-Mahdia Rasooli✨
 
