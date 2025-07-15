@@ -19,3 +19,6 @@ Welcome to the Horoscope Game! This is a fun interactive Python game that reveal
 ```bash
 python horoscope_game.py
 
+## Author
+Mahdia Rasooli✨
+
